@@ -1,0 +1,40 @@
+dev_workspace:
+total 20
+drwxrwxr-x 5 test test 4096 Sep 30 20:58 .
+drwxrwxr-x 3 test test 4096 Sep 30 21:08 ..
+drwxrwxr-x 2 test test 4096 Sep 30 20:58 archives
+drwxrwxr-x 3 test test 4096 Sep 30 21:03 projects
+drwxrwxr-x 2 test test 4096 Sep 30 20:58 tools
+
+dev_workspace/archives:
+total 8
+drwxrwxr-x 2 test test 4096 Sep 30 20:58 .
+drwxrwxr-x 5 test test 4096 Sep 30 20:58 ..
+
+dev_workspace/projects:
+total 12
+drwxrwxr-x 3 test test 4096 Sep 30 21:03 .
+drwxrwxr-x 5 test test 4096 Sep 30 20:58 ..
+drwxrwxr-x 4 test test 4096 Sep 30 21:04 web
+
+dev_workspace/projects/web:
+total 16
+drwxrwxr-x 4 test test 4096 Sep 30 21:04 .
+drwxrwxr-x 3 test test 4096 Sep 30 21:03 ..
+drwxrwxr-x 2 test test 4096 Sep 30 21:04 backend
+drwxrwxr-x 2 test test 4096 Sep 30 21:03 frontend
+
+dev_workspace/projects/web/backend:
+total 8
+drwxrwxr-x 2 test test 4096 Sep 30 21:04 .
+drwxrwxr-x 4 test test 4096 Sep 30 21:04 ..
+
+dev_workspace/projects/web/frontend:
+total 8
+drwxrwxr-x 2 test test 4096 Sep 30 21:03 .
+drwxrwxr-x 4 test test 4096 Sep 30 21:04 ..
+
+dev_workspace/tools:
+total 8
+drwxrwxr-x 2 test test 4096 Sep 30 20:58 .
+drwxrwxr-x 5 test test 4096 Sep 30 20:58 ..
