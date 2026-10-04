@@ -1,0 +1,15 @@
+Git Daily Workflow
+
+1. Edit files
+2. Check changes with git status
+3. Stage changes with git add
+4. Save changes with git commit
+5. Upload commits with git push
+
+Example:
+
+git status
+git add README.md
+git commit -m "Update README"
+git push
+git status
